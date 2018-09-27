@@ -97,3 +97,4 @@ function [meanVecClass0 meanVecClass1 covMatrixClass0 covMatrixClass1 prior0 pri
 
 
 endfunction
+
