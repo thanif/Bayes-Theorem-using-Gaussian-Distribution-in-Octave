@@ -22,3 +22,4 @@ X = load('testingData.txt');
 
 # Predictions on test data
 [predictedLabels MAPClass0 MAPClass1] = testMAP(X, meanVecClass0, meanVecClass1, covMatrixClass0, covMatrixClass1, prior0, prior1)
+
