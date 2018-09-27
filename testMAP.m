@@ -110,3 +110,4 @@ function [predictedLabels MAPClass0 MAPClass1] = testMAP(X, meanVecClass0, meanV
   endfor
 
 endfunction
+
